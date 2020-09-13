@@ -2,7 +2,7 @@ any idea to help me to fix pls?
 
 # blueline-factory-2020.09.11.04 
 
-#!/bin/shx
+#!/bin/sh
 
 
 	# Copyright 2012 The Android Open Source Project
